@@ -1,4 +1,4 @@
-package org.example;
+package org.example.CodingTasks;
 
 //Write a program to print out duplicate elements from an Array of Strings?
 public class Task10 {

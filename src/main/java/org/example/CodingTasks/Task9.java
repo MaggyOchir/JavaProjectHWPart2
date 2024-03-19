@@ -1,4 +1,4 @@
-package org.example;
+package org.example.CodingTasks;
 
 //Write a java program to find the second largest number in the array?
 public class Task9 {

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.CodingTasks;
 
 //Write a java program to check whether a given number is prime or not?
 public class Task6 {

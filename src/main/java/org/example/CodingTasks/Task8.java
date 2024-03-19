@@ -1,4 +1,4 @@
-package org.example;
+package org.example.CodingTasks;
 
 //Maximum and minimum number in the array?
 public class Task8 {

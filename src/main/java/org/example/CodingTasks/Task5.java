@@ -1,4 +1,4 @@
-package org.example;
+package org.example.CodingTasks;
 
 //Write a program to swap 2 numbers without a temporary variable?
 public class Task5 {
