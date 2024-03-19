@@ -18,13 +18,14 @@ public class Task4 {
                     oddSum += numbers[i][j];
                 }
 
-            }}
-            System.out.println("even sum " + evenSum);
-
-            System.out.println("odd sum " + oddSum);
+            }
         }
+        System.out.println("even sum " + evenSum);
 
+        System.out.println("odd sum " + oddSum);
     }
+
+}
 
 
 
